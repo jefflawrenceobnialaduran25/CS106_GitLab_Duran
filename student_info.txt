@@ -2,3 +2,4 @@ Student Name: Jeff Lawrence O. Duran
 Student ID: 2025-01-08810
 Section: BSCS 2B
 Course: CS 106 - App Dev
+Topic: Git Bash Fundamentals
